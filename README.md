@@ -51,9 +51,11 @@ while True:
 
 
 # SERVER OUTPUT :
-![output](./S.png)
+![image](https://github.com/Jayakrishnan22003251/EX-2/assets/120232371/b572c4d5-e65c-424f-b9f7-39c9e54faa1e)
+
 # CLIENT OUTPUT :
-![output](./C.png)
+
+![image](https://github.com/Jayakrishnan22003251/EX-2/assets/120232371/5f5c30c5-df32-4dd5-8010-042f85cd1ff2)
 
 
 
