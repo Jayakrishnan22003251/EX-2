@@ -16,9 +16,8 @@
 ## 6. Stop the program
 
 # CLIENT PROGRAM :
-```PYTHON 3 
-## Developed : Kavinraja D
-## Reg no : 212222240047
+``` 
+
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
